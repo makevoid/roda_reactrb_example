@@ -1,3 +1,11 @@
+# Roda + React.rb sample app
+
+Integration between Opal, React.rb, Roda fast rack based server + Server Sent Events / EventSource
+
+----
+
+merged with project makevoid/react_rb_sample_app
+
 # React rb sample app
 
 taken from the react.rb readme, repackaged to use it without sprockets

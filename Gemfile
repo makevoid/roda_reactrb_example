@@ -1,8 +1,9 @@
 source "http://rubygems.org"
 
-gem "opal", "~> 0.7.0"#, github: "opal/opal"
-# gem "opal-browser",    github: "opal/opal-browser" # vendored
+gem "roda" 
 
-# development
+gem "opal", "~> 0.7.2"
 
-gem 'guard-shell'
+group :development do
+  gem 'guard-shell'
+end
